@@ -15,6 +15,7 @@ CSS3 — variables, grid, flexbox, animations, backdrop-filter
 JavaScript (ES6+) — no frameworks, no build tools
 
 localStorage API — client-side data persistence
+__________________________________________________________________________________________________________________________________________
 
 ✨ **Features**
 Task Management
@@ -30,7 +31,7 @@ CompleteClick :  the circle checkbox to mark done/undone✏️
  DeleteClick : the trash icon — animates out smoothly🧹
  
  ClearDone : Remove all completed tasks at once from the sidebar
- 
+ __________________________________________________________________________________________________________________________________________
 
  📁 **Project Structure**
  
